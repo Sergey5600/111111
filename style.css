@@ -1,16 +1,23 @@
 h1 { 
     font-family: Noto Sans, sans-serif;
-    size: 200px;
+    color: white;
+    text-align: center;
 }
 h2 {
     font-family: Noto Sans, sans-serif;
+    color: white;
+    text-align: center;
 }
 a {
     font-family: Noto Sans, sans-serif;
+    color: white;
+    text-align: center;
 }
 ul {
     font-family: Noto Sans, sans-serif;
+    color: white;
+    text-align: center;
 }
 body {
-    background-color: antiquewhite;
+    background-color: black;
 }
